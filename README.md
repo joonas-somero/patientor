@@ -1,3 +1,7 @@
+A repository of my submissions for exercises in [Full Stack open 2020: Part 9](https://fullstackopen.com/en/part9)
+
+---
+
 # Patientor - frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
